@@ -1,0 +1,6 @@
+Animation of estimating the value of Pi [upto certain runs] using Monte Carlo methods implemented in Python.
+Libraries used:
+-Matplotlib
+-Numpy
+-Pandas
+
